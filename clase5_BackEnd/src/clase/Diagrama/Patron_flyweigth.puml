@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+class computer {
+-tipo: String
+-ram: int
+discoRigido:int
+-contador: int
+//getter/ setter /constructor
+}
+
+@enduml

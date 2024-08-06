@@ -1,0 +1,4 @@
+[2024-08-05 21:17:01] [ INFO ] [Main:47] [main] odontologoOdontologos{id=1, nombre='Juan', apellido='Perez', matricula='435435'}
+[2024-08-05 21:17:01] [ INFO ] [Main:65] [main] odontologoOdontologos{id=1, nombre='Juan', apellido='Perez', matricula='1231'}
+[2024-08-05 21:17:36] [ INFO ] [Main:47] [main] odontologoOdontologos{id=1, nombre='Juan', apellido='Perez', matricula='435435'}
+[2024-08-05 21:17:36] [ INFO ] [Main:65] [main] odontologoOdontologos{id=1, nombre='Juan', apellido='Perez', matricula='1234'}

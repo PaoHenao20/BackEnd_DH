@@ -1,0 +1,2 @@
+[2024-08-05 20:24:19] [ INFO ] [Main:44] [main] cuentaCuenta{id=1, nroCuenta='145687', nombre='pepito.mp', saldo=150.0}
+[2024-08-05 20:24:19] [ INFO ] [Main:62] [main] cuentaCuenta{id=1, nroCuenta='145687', nombre='pepito.mp', saldo=165.0}

@@ -1,0 +1,14 @@
+[2024-07-31 19:53:11] [ INFO ] [Main:8] [main] Este es mi primer logieo
+[2024-07-31 19:53:35] [ INFO ] [Main:8] [main] Este es mi primer logieo
+[2024-07-31 19:53:35] [ ERROR] [Main:9] [main] Este es un error
+[2024-07-31 19:53:58] [ INFO ] [Main:8] [main] Este es mi primer logueo
+[2024-07-31 19:53:58] [ ERROR] [Main:9] [main] Este es un error
+[2024-07-31 20:37:38] [ ERROR] [Main:12] [main] se produjo un error La lista no tiene elementos
+[2024-07-31 20:37:38] [ DEBUG] [ListaEnteros:12] [agregarNumeros] el numero que se agrego es 5
+[2024-07-31 20:37:38] [ DEBUG] [ListaEnteros:12] [agregarNumeros] el numero que se agrego es -10
+[2024-07-31 20:37:38] [ DEBUG] [ListaEnteros:12] [agregarNumeros] el numero que se agrego es 22
+[2024-07-31 20:37:38] [ DEBUG] [ListaEnteros:12] [agregarNumeros] el numero que se agrego es 45
+[2024-07-31 20:37:38] [ DEBUG] [ListaEnteros:12] [agregarNumeros] el numero que se agrego es 12
+[2024-07-31 20:37:38] [ DEBUG] [ListaEnteros:12] [agregarNumeros] el numero que se agrego es 7
+[2024-07-31 20:37:38] [ INFO ] [ListaEnteros:14] [agregarNumeros] La lista tiene mas de 5 elementos
+[2024-07-31 20:37:38] [ INFO ] [ListaEnteros:30] [promedio] el promedio es : 13.5

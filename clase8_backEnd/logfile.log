@@ -1,0 +1,50 @@
+[2024-07-31 22:30:13] [ INFO ] [Main:32] [main] animal: 1 FIRULAIS PERRO
+[2024-07-31 22:30:13] [ INFO ] [Main:32] [main] animal: 2 SOLOVINO GATO
+[2024-07-31 22:30:13] [ INFO ] [Main:32] [main] animal: 3 FRIJOL PERRO
+[2024-07-31 22:30:13] [ INFO ] [Main:32] [main] animal: 4 MAXI CONEJO
+[2024-07-31 22:30:13] [ INFO ] [Main:32] [main] animal: 5 SAYAYIN GATO
+[2024-07-31 22:30:13] [ INFO ] [Main:41] [main] -------------------------------------------------------
+[2024-07-31 22:30:13] [ INFO ] [Main:44] [main] animal: 1 FIRULAIS PERRO
+[2024-07-31 22:30:13] [ INFO ] [Main:44] [main] animal: 3 FRIJOL PERRO
+[2024-07-31 22:30:19] [ INFO ] [Main:32] [main] animal: 1 FIRULAIS PERRO
+[2024-07-31 22:30:19] [ INFO ] [Main:32] [main] animal: 2 SOLOVINO GATO
+[2024-07-31 22:30:19] [ INFO ] [Main:32] [main] animal: 3 FRIJOL PERRO
+[2024-07-31 22:30:19] [ INFO ] [Main:32] [main] animal: 4 MAXI CONEJO
+[2024-07-31 22:30:19] [ INFO ] [Main:32] [main] animal: 5 SAYAYIN GATO
+[2024-07-31 22:30:19] [ INFO ] [Main:41] [main] -------------------------------------------------------
+[2024-07-31 22:30:19] [ INFO ] [Main:44] [main] animal: 1 FIRULAIS PERRO
+[2024-07-31 22:30:19] [ INFO ] [Main:44] [main] animal: 3 FRIJOL PERRO
+[2024-07-31 22:38:01] [ ERROR] [Main:51] [main] Syntax error in SQL statement "DROP TABLE IF EXISTS FIGURAS [*]CREATE TABLE FIGURAS (ID INT AUTO_INCREMENT PRIMARY KEY, FIGURA VARCHAR(50) NOT NULL, COLOR VARCHAR(50) NOT NULL) "; SQL statement:
+DROP TABLE IF EXISTS FIGURAS CREATE TABLE FIGURAS (ID INT AUTO_INCREMENT PRIMARY KEY, FIGURA VARCHAR(50) NOT NULL, COLOR VARCHAR(50) NOT NULL)  [42000-230]
+[2024-07-31 22:39:07] [ INFO ] [Main:33] [main] Figura: 1 CIRCULO ROJO
+[2024-07-31 22:39:07] [ INFO ] [Main:33] [main] Figura: 2 CUADRADO ROJO
+[2024-07-31 22:39:07] [ INFO ] [Main:33] [main] Figura: 3 CIRCULO VERDE
+[2024-07-31 22:39:07] [ INFO ] [Main:33] [main] Figura: 4 CUADRADO VERDE
+[2024-07-31 22:39:07] [ INFO ] [Main:33] [main] Figura: 5 CUADRADO MORADO
+[2024-07-31 22:39:07] [ ERROR] [Main:51] [main] Column "TIPO" not found; SQL statement:
+SELECT * FROM FIGURAS WHERE TIPO = 'ROJO' [42122-230]
+[2024-07-31 22:39:20] [ INFO ] [Main:33] [main] Figura: 1 CIRCULO ROJO
+[2024-07-31 22:39:20] [ INFO ] [Main:33] [main] Figura: 2 CUADRADO ROJO
+[2024-07-31 22:39:20] [ INFO ] [Main:33] [main] Figura: 3 CIRCULO VERDE
+[2024-07-31 22:39:20] [ INFO ] [Main:33] [main] Figura: 4 CUADRADO VERDE
+[2024-07-31 22:39:20] [ INFO ] [Main:33] [main] Figura: 5 CUADRADO MORADO
+[2024-07-31 22:39:20] [ INFO ] [Main:42] [main] -------------------------------------------------------
+[2024-07-31 22:39:20] [ INFO ] [Main:45] [main] Figura: 1 CIRCULO ROJO
+[2024-07-31 22:39:20] [ INFO ] [Main:45] [main] Figura: 2 CUADRADO ROJO
+[2024-07-31 22:56:17] [ ERROR] [Main:51] [main] Database may be already in use: "/Users/paola/Documents/BackEnd/clase8_backEnd/clase8.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-230]
+[2024-07-31 22:57:24] [ INFO ] [Main:33] [main] Figura: 1 CIRCULO ROJO
+[2024-07-31 22:57:24] [ INFO ] [Main:33] [main] Figura: 2 CUADRADO ROJO
+[2024-07-31 22:57:24] [ INFO ] [Main:33] [main] Figura: 3 CIRCULO VERDE
+[2024-07-31 22:57:24] [ INFO ] [Main:33] [main] Figura: 4 CUADRADO VERDE
+[2024-07-31 22:57:24] [ INFO ] [Main:33] [main] Figura: 5 CUADRADO MORADO
+[2024-07-31 22:57:24] [ INFO ] [Main:42] [main] -------------------------------------------------------
+[2024-07-31 22:57:24] [ INFO ] [Main:45] [main] Figura: 1 CIRCULO ROJO
+[2024-07-31 22:57:24] [ INFO ] [Main:45] [main] Figura: 2 CUADRADO ROJO
+[2024-08-05 19:10:59] [ INFO ] [Main:33] [main] Figura: 1 CIRCULO ROJO
+[2024-08-05 19:10:59] [ INFO ] [Main:33] [main] Figura: 2 CUADRADO ROJO
+[2024-08-05 19:10:59] [ INFO ] [Main:33] [main] Figura: 3 CIRCULO VERDE
+[2024-08-05 19:10:59] [ INFO ] [Main:33] [main] Figura: 4 CUADRADO VERDE
+[2024-08-05 19:10:59] [ INFO ] [Main:33] [main] Figura: 5 CUADRADO MORADO
+[2024-08-05 19:10:59] [ INFO ] [Main:42] [main] -------------------------------------------------------
+[2024-08-05 19:10:59] [ INFO ] [Main:45] [main] Figura: 1 CIRCULO ROJO
+[2024-08-05 19:10:59] [ INFO ] [Main:45] [main] Figura: 2 CUADRADO ROJO

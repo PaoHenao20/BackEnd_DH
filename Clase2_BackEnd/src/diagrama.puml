@@ -1,0 +1,21 @@
+@startuml
+abstract class Empledo{
+-nombre:String
+-apellido:String
+-nroCuenta: String
+}
+
+Efectivo -u-|> Empleado
+Contratado -u-|> Empleado
+
+class Efectivo{
+-sueldoBase:double
+-premio:double
+-descuento:double
+}
+
+class Contratado{
+-cantHoras:int
+-montoPorHora:double
+}
+@enduml
